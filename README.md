@@ -96,10 +96,15 @@ To download from Kaggle:
 ## 🔑 Key Skills Demonstrated
 
 ✔️ Data preprocessing (handling NaN, encoding, merging CSVs)
+
 ✔️ Regression and classification model building
+
 ✔️ Model evaluation: MSE, MAE, prediction visualizations
+
 ✔️ Kaggle + Google Drive integration in Colab
+
 ✔️ Comparative analysis of scikit-learn models
+
 ✔️ End-to-end ML pipeline building
 
 ---
