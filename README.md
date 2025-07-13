@@ -124,11 +124,17 @@ To download from Kaggle:
 ## 🔑 Key Skills Demonstrated
 
 ✔️ Data cleaning and preprocessing
+
 ✔️ Multi-source data merging
+
 ✔️ Classification & regression model development
+
 ✔️ Model evaluation with MSE, MAE, accuracy
+
 ✔️ Kaggle + Google Drive integration in Colab
+
 ✔️ Feature encoding and one-hot techniques
+
 ✔️ Practical projects: churn prediction, stock modeling, sports analytics, image recognition
 
 ---
