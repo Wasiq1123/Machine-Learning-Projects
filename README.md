@@ -8,11 +8,17 @@ This repository showcases several **machine learning notebooks** focused on clas
 
 ```
 📁 ML_Projects
+
 ├── 2D point dataset.ipynb                     # 🔹 Beginner ML on 2D data
+
 ├── Churn_prediction ML project.ipynb          # 🔥 Customer churn classification
+
 ├── Different Models of ML.ipynb               # 📈 Model comparison on stock data
+
 ├── Hand_Written_Dataset Recognition.ipynb     # ✍️ Digit classification (likely MNIST)
+
 ├── SVM on Multiple CSVs.ipynb                 # ⚽ Regression on FIFA datasets (SVM)
+
 ├── .gitkeep
 ```
 
